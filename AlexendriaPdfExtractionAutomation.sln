@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexendriaPdfExtractionAutomation", "AlexendriaPdfExtractionAutomation\AlexendriaPdfExtractionAutomation.csproj", "{9ABEC721-E15E-4580-818D-A10822D22C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexendriaPdfExtractionAutomationTest", "AlexendriaPdfExtractionAutomationTest\AlexendriaPdfExtractionAutomationTest.csproj", "{7448FEEA-2ECA-4375-BA35-C32AE8540B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABEC721-E15E-4580-818D-A10822D22C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABEC721-E15E-4580-818D-A10822D22C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABEC721-E15E-4580-818D-A10822D22C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABEC721-E15E-4580-818D-A10822D22C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7448FEEA-2ECA-4375-BA35-C32AE8540B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7448FEEA-2ECA-4375-BA35-C32AE8540B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7448FEEA-2ECA-4375-BA35-C32AE8540B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7448FEEA-2ECA-4375-BA35-C32AE8540B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3F0DE9-9675-4C04-92DB-40C6F6FA4912}
+	EndGlobalSection
+EndGlobal

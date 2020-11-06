@@ -1,0 +1,26 @@
+{
+  "isError": false,
+  "body": [
+    {
+      "page_num": 59,
+      "table_name": "CONSOLIDATED BALANCE SHEET",
+      "unit_text": "million",
+      "currency": "$",
+      "short_name": "BS"
+    },
+    {
+      "page_num": 57,
+      "table_name": "STATEMENTS OF OPERATIONS",
+      "unit_text": "million",
+      "currency": "$",
+      "short_name": "IS"
+    },
+    {
+      "page_num": 62,
+      "table_name": "CONSOLIDATED STATEMENTS OF CASH FLOW",
+      "unit_text": "million",
+      "currency": "$",
+      "short_name": "CF"
+    }
+  ]
+}
